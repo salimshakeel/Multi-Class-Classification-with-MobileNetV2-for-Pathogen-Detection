@@ -11,9 +11,9 @@ Feature engineering for optimal model performance
 
 ## 📊 Model Performance:
 
- **Accuracy: 89.4% on test data**
-* Precision, Recall & F1-Score:
-* Precision = 0.94, Recall = 0.83, F1-Score = 0.88
+ ### **Accuracy: 89.4% on test data**
+#### Precision, Recall & F1-Score:
+* Bacteria: Precision = 0.94, Recall = 0.83, F1-Score = 0.88
 * Fungi: Precision = 0.93, Recall = 0.95, F1-Score = 0.94
 * Healthy: Precision = 0.88, Recall = 0.90, F1-Score = 0.89
 * Pests: Precision = 0.83, Recall = 0.92, F1-Score = 0.88
